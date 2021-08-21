@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बस जावा</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order">मात्रा</string>
+    <string name="order_summary">आदेश सारांश</string>
+    <string name="price">कीमत</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="you_cannot_coffie_less_then_1">आप 1 से कम ऑर्डर नहीं कर सकते</string>
+    <string name="you_cannot_order_coffie_more_then_100">आप 100 से अधिक कॉफी का आदेश नहीं दे सकते</string>
+
+</resources>
